@@ -1,0 +1,50 @@
+.background{
+    background-color: rgba(0, 0, 139, 0.767);
+}
+
+.p1{
+    font-size: 20px;
+}
+
+.tm{
+    width: 200px;
+    height: 200px;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+
+.pad-10{
+    padding: 20px;
+}
+
+.tm-2{
+    width: 100px;
+    height: 100px;
+}
+
+.tm-3{
+    width: 150px;
+    height: 150px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.mb{
+    margin-left: 5%;
+}
+
+.mb-2{
+    margin-left: 10%;
+}
+
+.mb-3{
+    margin-left: 15%;
+}
